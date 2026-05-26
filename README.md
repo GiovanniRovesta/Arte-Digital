@@ -2,3 +2,5 @@
 
 # Professores: Cristiane e Rafael
 Aluno: Giovanni Rovesta
+
+Trabalhamos com a mudança de imagens para se tornarem mais visíveis e nítidas, a criatividade é uma parte importante para essa matéria, pois podemos criar e transformar a imagem
